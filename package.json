@@ -1,0 +1,16 @@
+{
+  "name": "Develop",
+  "version": "1.0.0",
+  "description": "# Description ## This is to generate READme files",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
